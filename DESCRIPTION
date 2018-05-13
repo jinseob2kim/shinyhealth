@@ -1,6 +1,6 @@
 Package: shinyhealth
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Shiny modules for health data analysis. (shinyhealth)
 Version: 0.1.0
 Author: Jinseob Kim
 Maintainer: Jinseob Kim <jinseob2kim@gmail.com>
