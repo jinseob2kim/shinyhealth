@@ -1,5 +1,6 @@
 # shinyhealth
-![license](https://img.shields.io/npm/l/isomorphic-git.svg)
+
+![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
 ![Github commits (since latest release)](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest.svg)
 
 
